@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Utils {
+public class utils {
     public static void showMainMenu() {
         System.out.println("Головне меню гри 'Хрестики-нулики Ultra Mega'");
         System.out.println("Грати - (1)");
